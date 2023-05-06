@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pablo128482
 - 👀 I’m interested in creating and building mini lifeforms like legooland. Seriously, I am interested in building stable operating systems.
-- 🌱 I’m currently learning to build web applications.
+- 🌱 I build web applications.
 - 💞️ I’m looking to collaborate on cybersecurity, web development, and data science.
 - 📫 How to reach me is through email.
 
